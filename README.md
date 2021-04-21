@@ -1,6 +1,7 @@
 # Here Be Dragons: Finding the Joy in Software Development
 
 [Click Here for slide deck as PDF](slide-decks/2021-04-midwest-php-dragons.pdf) for offline viewing.
+*Use the "download" button if it says "something went wrong".*
 
 There's a strong tendency toward "gate keeping" right now in the 2020s. Senior developers warn "there be dragons" while
 announcing a "hands off" policy toward the crucial areas of the code base. You and I need to get past that. Where's the
